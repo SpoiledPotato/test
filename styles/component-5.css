@@ -1,0 +1,54 @@
+.container.component-5 {
+    grid-template-columns: 50% 50%;
+    margin-top: 86px;
+}
+
+.container.component-5 div {
+    margin-right: 16px;
+    width: 569.33px;
+    justify-self: end;
+}
+
+.container.component-5 img {
+    margin-left: -960px;
+    margin-top: -85px;
+}
+
+.container.component-5 .checklist{
+    margin-top: 30px;
+    margin-bottom: 35px;
+}
+
+.container.component-5 .checklist p {
+    margin-top: initial;
+    margin-bottom: 16px;
+}
+
+.container.component-5 .btn {
+    display: flex;
+    height: 40px;
+    border: 2px solid #2C3E50;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    width: 181.04px;
+}
+
+.container.component-5 .btn p {
+    margin: 0;
+    padding: 0;
+    color: #2C3E50;
+    font-size: 15px;
+    letter-spacing: 0.055em;
+    font-weight: 700;
+}
+
+.container.component-5 .btn:hover {
+    border: transparent;
+    background-color: #1ABC9C;
+    cursor: pointer;
+}
+
+.container.component-5 .btn:hover p {
+    color: white;
+}
